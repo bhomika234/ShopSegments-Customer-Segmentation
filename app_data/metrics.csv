@@ -1,0 +1,3 @@
+Model,Precision@10
+Item-Based Collaborative Filtering,0.0198521647307286
+ALS Recommender,0.0417106652587117

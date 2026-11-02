@@ -1,0 +1,5 @@
+Segment_Name,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Marketing_Action
+At-Risk Customers,1067,248.0759137769447,1.5520149953139644,478.8487731958763,510931.641,Send win-back emails and special discount offers.
+Loyal High-Value Customers,204,15.5,22.333333333333332,12690.500392156862,2588862.08,"Offer early access, special bundles, and loyalty rewards."
+Regular Customers,3054,43.7026850032744,3.682711198428291,1353.6312059593977,4133989.703,Offer loyalty points and personalized discounts.
+VIP Champions,13,7.384615384615385,82.53846153846153,127187.95923076922,1653443.47,Provide exclusive rewards and premium offers.

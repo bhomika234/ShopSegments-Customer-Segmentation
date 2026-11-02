@@ -1,0 +1,8 @@
+# Only needed to re-run the modelling scripts in src/ (not needed for the dashboard)
+-r requirements.txt
+scikit-learn
+scipy
+umap-learn
+implicit
+matplotlib
+seaborn

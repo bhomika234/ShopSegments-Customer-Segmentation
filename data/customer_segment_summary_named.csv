@@ -1,0 +1,5 @@
+Cluster,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Segment_Name,Marketing_Action
+0,3054,43.7,3.68,1353.63,Regular Customers,Offer loyalty points and personalized discounts.
+1,1067,248.08,1.55,478.85,At-Risk Customers,Send win-back emails and special discount offers.
+2,13,7.38,82.54,127187.96,VIP Champions,Provide exclusive rewards and premium offers.
+3,204,15.5,22.33,12690.5,Loyal High-Value Customers,"Offer early access, special bundles, and loyalty rewards."
